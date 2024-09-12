@@ -1,0 +1,2 @@
+# xiaoxinpro13hackintosh
+小新pro13黑苹果EFI
